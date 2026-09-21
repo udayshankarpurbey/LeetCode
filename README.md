@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/UdayShankarPurbey/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/UdayShankarPurbey/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/UdayShankarPurbey/LeetCode/tree/master/2574-left-and-right-sum-differences) |
+| [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/UdayShankarPurbey/LeetCode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2848-points-that-intersect-with-cars](https://github.com/UdayShankarPurbey/LeetCode/tree/master/2848-points-that-intersect-with-cars) |
 | [3028-ant-on-the-boundary](https://github.com/UdayShankarPurbey/LeetCode/tree/master/3028-ant-on-the-boundary) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/UdayShankarPurbey/LeetCode/tree/master/3427-sum-of-variable-length-subarrays) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0763-partition-labels](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0763-partition-labels) |
 | [0819-most-common-word](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0819-most-common-word) |
+| [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/UdayShankarPurbey/LeetCode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2848-points-that-intersect-with-cars](https://github.com/UdayShankarPurbey/LeetCode/tree/master/2848-points-that-intersect-with-cars) |
 | [3731-find-missing-elements](https://github.com/UdayShankarPurbey/LeetCode/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/UdayShankarPurbey/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
