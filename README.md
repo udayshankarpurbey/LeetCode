@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0763-partition-labels) |
 | [0819-most-common-word](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0819-most-common-word) |
 | [2785-sort-vowels-in-a-string](https://github.com/UdayShankarPurbey/LeetCode/tree/master/2785-sort-vowels-in-a-string) |
+| [3271-hash-divided-string](https://github.com/UdayShankarPurbey/LeetCode/tree/master/3271-hash-divided-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/UdayShankarPurbey/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Sliding Window
 |  |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0258-add-digits) |
 | [3028-ant-on-the-boundary](https://github.com/UdayShankarPurbey/LeetCode/tree/master/3028-ant-on-the-boundary) |
+| [3271-hash-divided-string](https://github.com/UdayShankarPurbey/LeetCode/tree/master/3271-hash-divided-string) |
 ## Two Pointers
 |  |
 | ------- |
