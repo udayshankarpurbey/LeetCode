@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0763-partition-labels) |
 | [0819-most-common-word](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0819-most-common-word) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/UdayShankarPurbey/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2390-removing-stars-from-a-string](https://github.com/UdayShankarPurbey/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2785-sort-vowels-in-a-string](https://github.com/UdayShankarPurbey/LeetCode/tree/master/2785-sort-vowels-in-a-string) |
 | [3271-hash-divided-string](https://github.com/UdayShankarPurbey/LeetCode/tree/master/3271-hash-divided-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/UdayShankarPurbey/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0155-min-stack) |
 | [1441-build-an-array-with-stack-operations](https://github.com/UdayShankarPurbey/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/UdayShankarPurbey/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2390-removing-stars-from-a-string](https://github.com/UdayShankarPurbey/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Linked List
 |  |
 | ------- |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0258-add-digits) |
 | [1441-build-an-array-with-stack-operations](https://github.com/UdayShankarPurbey/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
+| [2390-removing-stars-from-a-string](https://github.com/UdayShankarPurbey/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [3028-ant-on-the-boundary](https://github.com/UdayShankarPurbey/LeetCode/tree/master/3028-ant-on-the-boundary) |
 | [3271-hash-divided-string](https://github.com/UdayShankarPurbey/LeetCode/tree/master/3271-hash-divided-string) |
 ## Two Pointers
