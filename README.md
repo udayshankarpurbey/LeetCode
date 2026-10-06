@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/UdayShankarPurbey/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/UdayShankarPurbey/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1991-find-the-middle-index-in-array](https://github.com/UdayShankarPurbey/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/UdayShankarPurbey/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/UdayShankarPurbey/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/UdayShankarPurbey/LeetCode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2848-points-that-intersect-with-cars](https://github.com/UdayShankarPurbey/LeetCode/tree/master/2848-points-that-intersect-with-cars) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0263-ugly-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/UdayShankarPurbey/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/UdayShankarPurbey/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2396-strictly-palindromic-number](https://github.com/UdayShankarPurbey/LeetCode/tree/master/2396-strictly-palindromic-number) |
 | [2485-find-the-pivot-integer](https://github.com/UdayShankarPurbey/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/UdayShankarPurbey/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0258-add-digits) |
 | [1441-build-an-array-with-stack-operations](https://github.com/UdayShankarPurbey/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/UdayShankarPurbey/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2390-removing-stars-from-a-string](https://github.com/UdayShankarPurbey/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [3028-ant-on-the-boundary](https://github.com/UdayShankarPurbey/LeetCode/tree/master/3028-ant-on-the-boundary) |
 | [3271-hash-divided-string](https://github.com/UdayShankarPurbey/LeetCode/tree/master/3271-hash-divided-string) |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0258-add-digits) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/UdayShankarPurbey/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Matrix
 |  |
 | ------- |
@@ -271,4 +275,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/UdayShankarPurbey/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Combinatorics
+|  |
+| ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/UdayShankarPurbey/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
