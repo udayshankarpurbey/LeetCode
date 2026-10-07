@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0819-most-common-word](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0819-most-common-word) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1310-xor-queries-of-a-subarray](https://github.com/UdayShankarPurbey/LeetCode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1441-build-an-array-with-stack-operations](https://github.com/UdayShankarPurbey/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/UdayShankarPurbey/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0258-add-digits) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1441-build-an-array-with-stack-operations](https://github.com/UdayShankarPurbey/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/UdayShankarPurbey/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2390-removing-stars-from-a-string](https://github.com/UdayShankarPurbey/LeetCode/tree/master/2390-removing-stars-from-a-string) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0075-sort-colors) |
 | [0347-top-k-frequent-elements](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/UdayShankarPurbey/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/UdayShankarPurbey/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2785-sort-vowels-in-a-string](https://github.com/UdayShankarPurbey/LeetCode/tree/master/2785-sort-vowels-in-a-string) |
@@ -279,4 +282,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/UdayShankarPurbey/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
+## Queue
+|  |
+| ------- |
+| [0950-reveal-cards-in-increasing-order](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
 <!---LeetCode Topics End-->
