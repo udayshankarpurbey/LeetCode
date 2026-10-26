@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/UdayShankarPurbey/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/UdayShankarPurbey/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1991-find-the-middle-index-in-array](https://github.com/UdayShankarPurbey/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
+| [2079-watering-plants](https://github.com/UdayShankarPurbey/LeetCode/tree/master/2079-watering-plants) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/UdayShankarPurbey/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/UdayShankarPurbey/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/UdayShankarPurbey/LeetCode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0258-add-digits) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1441-build-an-array-with-stack-operations](https://github.com/UdayShankarPurbey/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
+| [2079-watering-plants](https://github.com/UdayShankarPurbey/LeetCode/tree/master/2079-watering-plants) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/UdayShankarPurbey/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2390-removing-stars-from-a-string](https://github.com/UdayShankarPurbey/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [3028-ant-on-the-boundary](https://github.com/UdayShankarPurbey/LeetCode/tree/master/3028-ant-on-the-boundary) |
