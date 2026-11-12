@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/UdayShankarPurbey/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/UdayShankarPurbey/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/UdayShankarPurbey/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1672-richest-customer-wealth](https://github.com/UdayShankarPurbey/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1991-find-the-middle-index-in-array](https://github.com/UdayShankarPurbey/LeetCode/tree/master/1991-find-the-middle-index-in-array) |
 | [2079-watering-plants](https://github.com/UdayShankarPurbey/LeetCode/tree/master/2079-watering-plants) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/UdayShankarPurbey/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/UdayShankarPurbey/LeetCode/tree/master/0048-rotate-image) |
+| [1672-richest-customer-wealth](https://github.com/UdayShankarPurbey/LeetCode/tree/master/1672-richest-customer-wealth) |
 ## Quicksort
 |  |
 | ------- |
